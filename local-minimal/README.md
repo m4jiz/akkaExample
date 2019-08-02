@@ -1,6 +1,6 @@
 ## Instruction to run the example
 ```
-> git clone https://github.com/richardimaoka/resources.git
+> git clone https://github.com/m4jiz/akkaExample.git
 > cd resources
 > cd local-minimal
 > sbt
