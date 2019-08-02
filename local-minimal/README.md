@@ -1,8 +1,3 @@
-blog posts are
-
-- https://richardimaoka.github.io/blog/local-minimal-sender 
-- https://richardimaoka.github.io/blog/local-minimal-receiver
-
 ## Instruction to run the example
 ```
 > git clone https://github.com/richardimaoka/resources.git
