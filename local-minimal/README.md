@@ -1,7 +1,7 @@
 ## Instruction to run the example
 ```
 > git clone https://github.com/m4jiz/akkaExample.git
-> cd resources
+> cd akkaExample
 > cd local-minimal
 > sbt
 > runMain example.Main
