@@ -9,8 +9,6 @@
 
 ## Output 
 
-Some `println` calls are inserted in the [complete example at GitHub](https://github.com/richardimaoka/resources/tree/master/local-minimal) to illustrate the behavior.
-
 Thread names are shown as [exampleSystem-akka.actor.default-dispatcher-3] and [...-4].
 
 ```
